@@ -1,0 +1,42 @@
+# Django Core
+Django==5.0.8
+djangorestframework==3.15.2
+django-cors-headers==4.4.0
+django-filter==24.2
+
+# Database
+psycopg2-binary==2.9.9
+dj-database-url==2.2.0
+
+# Async & Channels
+channels==4.1.0
+channels-redis==4.2.0
+daphne==4.1.2
+
+# Celery
+celery==5.4.0
+redis==5.0.8
+
+# Azure OpenAI
+openai==1.35.13
+azure-identity==1.17.1
+
+# Authentication
+djangorestframework-simplejwt==5.3.1
+PyJWT==2.9.0
+
+# API Documentation
+drf-spectacular==0.27.2
+
+# File Handling
+Pillow==10.4.0
+python-magic==0.4.27
+
+# PDF Generation
+reportlab==4.2.2
+weasyprint==62.3
+
+# Utilities
+python-dotenv==1.0.1
+python-decouple==3.8
+
