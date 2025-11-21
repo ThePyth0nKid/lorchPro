@@ -6,9 +6,12 @@ from .base import *
 
 DEBUG = True
 
-INSTALLED_APPS += [
-    'django_extensions',
-]
+# Django Extensions nur hinzufügen wenn installiert
+try:
+    import django_extensions  # noqa
+    INSTALLED_APPS += ['django_extensions']
+except ImportError:
+    pass
 
 # Erweiterte CORS für lokale Entwicklung
 CORS_ALLOWED_ORIGINS += [

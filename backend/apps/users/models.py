@@ -42,7 +42,6 @@ class User(AbstractUser):
     REQUIRED_FIELDS = ['username', 'first_name', 'last_name']
     
     class Meta:
-        db_table = 'users'
         verbose_name = 'Benutzer'
         verbose_name_plural = 'Benutzer'
         ordering = ['-created_at']

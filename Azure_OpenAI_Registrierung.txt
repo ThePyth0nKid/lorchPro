@@ -1,0 +1,149 @@
+═══════════════════════════════════════════════════════════════════════════════
+AZURE OPENAI SERVICE REGISTRIERUNGSFORMULAR
+Für: gpt-5.1, gpt-5, gpt-5-pro, gpt-5.1-codex, gpt-5-codex, o3, o3-pro, 
+     deep research, reasoning summary, Sora 2, gpt-image-1, gpt-image-1-mini
+═══════════════════════════════════════════════════════════════════════════════
+
+WICHTIGE HINWEISE VOR DEM AUSFÜLLEN:
+────────────────────────────────────────────────────────────────────────────────
+• Verwende NUR geschäftliche E-Mail-Adressen (KEINE @gmail, @yahoo, @hotmail)
+• Reiche nur EINE Subscription ID pro Antrag ein
+• Subscription muss zu einer Organisation unter Enterprise Agreement gehören
+• Füge maccount@microsoft.com und csgate@microsoft.com zu deinen sicheren 
+  Absendern hinzu
+• Prüfe nach dem Absenden deinen Spam-Ordner auf Verifizierungs-E-Mail
+────────────────────────────────────────────────────────────────────────────────
+
+
+PERSÖNLICHE INFORMATIONEN
+════════════════════════════════════════════════════════════════════════════════
+
+1. Vorname (First Name)
+   Antwort: [DEIN VORNAME]
+
+
+2. Nachname (Last Name)
+   Antwort: [DEIN NACHNAME]
+
+
+3. Azure Subscription ID (NICHT Tenant ID!)
+   Hilfe: https://aka.ms/get-subscription-id
+   Format: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+   
+   Antwort: [DEINE SUBSCRIPTION ID]
+
+
+4. Geschäftliche E-Mail-Adresse (Company Email)
+   WICHTIG: Keine persönliche E-Mail verwenden!
+   
+   Antwort: [DEINE.EMAIL@FIRMENNAME.COM]
+
+
+
+FIRMENINFORMATIONEN
+════════════════════════════════════════════════════════════════════════════════
+
+5. Firmenname (Company Name)
+   Welche Organisation repräsentierst du?
+   
+   Antwort: [FIRMENNAME]
+
+
+6. Verwendungszweck / Szenario(s)
+   Für welche Szenarien planst du dieses Modell zu verwenden?
+   
+   Antwort: [BESCHREIBE DETAILLIERT DEINE ANWENDUNGSFÄLLE]
+   
+   Beispiel-Antworten:
+   - Entwicklung eines intelligenten Kundenservice-Chatbots für E-Commerce
+   - Automatisierte Code-Generierung und Review für Softwareentwicklung
+   - Content-Erstellung und Marketing-Automatisierung
+   - Datenanalyse und Business Intelligence Anwendungen
+   - Forschung und Entwicklung im Bereich KI-gestützte Lösungen
+
+
+7. Straße (Company Street Address)
+   Antwort: [STRASSE UND HAUSNUMMER]
+
+
+8. Stadt (Company City)
+   Antwort: [STADT]
+
+
+9. Postleitzahl (Company Zip Code)
+   Antwort: [PLZ]
+
+
+10. Land (Company Country)
+    Antwort: [LAND]
+
+
+
+BESTÄTIGUNGEN
+════════════════════════════════════════════════════════════════════════════════
+
+11. Bestätigung der Antragstellung
+    Bitte bestätige, dass dieser Antrag für deine eigene Firma ist und nicht 
+    im Namen deines Kunden.
+    
+    ☐ My own organization
+    
+    HINWEIS: Falls für einen Kunden, muss der Kunde selbst den Antrag stellen!
+
+
+12. Rechtliche Bestimmungen
+    Der Azure OpenAI Service unterliegt den geltenden Azure Legal Terms 
+    (einschließlich relevanter Product Terms), und Preview-Features unterliegen 
+    den Supplemental Terms of Use for Microsoft Azure Previews.
+    
+    Deine Nutzung muss mit den Anforderungen in der Produktdokumentation 
+    übereinstimmen, einschließlich des Code of Conduct.
+    
+    ☐ I acknowledge that these terms apply to use of the Azure OpenAI Service
+
+
+13. (Optional) Feedback-Umfrage
+    Survey Link: AOAI (qualtrics.com)
+    
+    Antwort: [OPTIONAL - KANNST DU LEER LASSEN ODER NACH DEM ABSENDEN AUSFÜLLEN]
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+WICHTIGE DOKUMENTE ZUM DURCHLESEN:
+═══════════════════════════════════════════════════════════════════════════════
+
+□ Overview of Responsible AI Practices
+□ Azure OpenAI's Transparency Note
+□ Azure Legal Terms und Product Terms
+□ Code of Conduct für Azure OpenAI Service
+
+Informationen über Limited Access: 
+https://learn.microsoft.com/azure/ai-services/openai/limited-access
+
+
+
+HÄUFIGE ABLEHNUNGSGRÜNDE (VERMEIDE DIESE!)
+════════════════════════════════════════════════════════════════════════════════
+
+✗ Ungültige Subscription eingereicht
+✗ Persönliche E-Mail verwendet (@gmail, @yahoo, @hotmail, etc.)
+✗ Mehrere Subscription IDs in einem Antrag
+✗ Subscription gehört nicht zu Enterprise Agreement Organisation
+
+
+
+NÄCHSTE SCHRITTE NACH DEM ABSENDEN
+════════════════════════════════════════════════════════════════════════════════
+
+1. Prüfe deinen Posteingang (inkl. Spam-Ordner) auf Verifizierungs-E-Mail
+2. Aufgrund hoher Nachfrage: Warteliste möglich
+3. Warte auf Genehmigung von Microsoft
+4. Bei Fragen: Kontaktiere maccount@microsoft.com oder csgate@microsoft.com
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Stand: November 2025
+═══════════════════════════════════════════════════════════════════════════════
+
+
